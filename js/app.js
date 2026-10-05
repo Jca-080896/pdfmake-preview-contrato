@@ -7,30 +7,7 @@ var appDd = {
   pageMargins: [20, 10, 20, 20],
   content: [
       
-      // pagina 1
-    // encabezado 
-    {
-      style: 'tableExample',
-      table: {
-        widths: ['30%', '70%'],
-        body: [
-          [
-            '',
-            {
-              stack: [
-                { text: 'NET2ALLIANCE', bold: true },
-                { text: '', bold: true },
-                { text: 'RFC: SEI220504HW4', bold: true },
-                { text: 'FRANCISCO I. MADERO 28, TECALITLÁN CENTRO', bold: true },
-                { text: 'TECALITLÁN, JALISCO, C.P. 49900', bold: true },
-                { text: '' }
-              ],
-              alignment: 'right'
-            }
-          ]
-        ]
-      }
-    },
+
     // suscriptor
     {
       margin: [0, 10, 0, 0],
